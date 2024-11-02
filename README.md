@@ -70,7 +70,7 @@ I find it rewarding to solve problems by refining and discussing different ideas
   <img src="https://img.shields.io/badge/sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>\
+  <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/>
   <img src="https://img.shields.io/badge/turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/>
   <img src="https://img.shields.io/badge/vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
