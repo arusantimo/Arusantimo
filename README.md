@@ -1,6 +1,6 @@
 <p>
   <a href="https://www.linkedin.com/in/%EC%B0%BD%EA%B7%9C-%EC%9D%B4-717245123/" target="_blank"><img src="https://img.shields.io/badge/ChanggyuLEE-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ziziana0507@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:ziziana0507@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ziziana0507@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://arusantimo.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>    
 </p>
 
