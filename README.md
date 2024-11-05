@@ -31,11 +31,14 @@ I find it rewarding to solve problems by refining and discussing different ideas
   <img src="https://img.shields.io/badge/vuejs-3DDC84?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tanstackQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/shadchui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tanstackQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>  
   <img src="https://img.shields.io/badge/recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/zustand-4a2d17?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rxjs-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
   <img src="https://img.shields.io/badge/mobx-FF9955?style=flat-square&logo=mobx&logoColor=white"/>
   <img src="https://img.shields.io/badge/mobxStateTree-FF7102?style=flat-square&logo=mobxstatetree&logoColor=white"/>
   <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
