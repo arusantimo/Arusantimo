@@ -11,8 +11,7 @@ Hello. I'm Changgyu Lee, a front-end developer. 👽
 
 I've been working as a developer since 2012. 
 
-I am currently working at NCSOFT to create operational tools for game development.
-With development experience in various domains such as finance, manufacturing, and advertising, I focus on quickly identifying and solving business needs.
+I am currently developing services in a web environment. Based on my development experience in various fields such as finance, manufacturing, and advertising, I focus on quickly identifying and solving business requirements.
 
 In my opinion, a good developer should be able to make a team scalable and productive, and provide direction to team and organizational challenges through active communication.
 I find it rewarding to solve problems by refining and discussing different ideas to achieve a goal, and I aspire to be a developer who develops services that serve a purpose for users.
